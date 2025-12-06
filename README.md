@@ -1,7 +1,6 @@
 # DS 207 Final Project – Predicting ATP Tennis Match Outcomes
 
 **Team:**  
-- Rachel Burgess – rmburgess@berkeley.edu  
 - Georgios Friligkos – georgios.friligkos@berkeley.edu  
 
 ## Project Overview
