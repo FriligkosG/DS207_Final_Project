@@ -37,3 +37,5 @@ venv/
 # Backup / temporary files
 *.tmp
 *.log
+
+anaconda_projects/
