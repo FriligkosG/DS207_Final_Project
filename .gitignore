@@ -1,0 +1,39 @@
+# Ignore data files (raw and processed)
+data/
+*.csv
+*.tsv
+
+# Ignore results (plots, logs, models)
+results/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+*.json
+*.pkl
+*.h5
+*.model
+
+# Jupyter notebook temporary checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# VSCode / PyCharm settings
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Backup / temporary files
+*.tmp
+*.log
